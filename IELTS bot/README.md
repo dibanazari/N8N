@@ -123,7 +123,8 @@ OPENROUTER_API_KEY=
 
 TELEGRAM_BOT_TOKEN=
 
-TELEGRAM_CHAT_ID=
+TELEGRAM_CHAT_ID=<img width="1536" height="1024" alt="ChatGPT Image Jul 12, 2026, 11_54_28 AM" src="https://github.com/user-attachments/assets/9322af4e-92f7-4cb6-9243-c7110ab62867" />
+
 ```
 
 ---
